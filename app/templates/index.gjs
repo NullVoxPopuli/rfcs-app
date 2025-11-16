@@ -35,8 +35,8 @@ function daysUntilFriday() {
         <LinkTo @route="stages.released">Released RFCs</LinkTo>.</p>
     {{/if}}
     <p>If you want to share your ideas before creating a PR, check out the
-      <code>#dev-rfc</code>
-      Discord channel. Every friday we also host a RFC meeting in the same
+      <a href="https://discord.com/channels/480462759797063690/500803406676492298"><code>#dev-rfc</code></a>
+      Discord channel (join our discord via <a href="https://discord.gg/emberjs">this invite link</a> if you haven't already). Every friday we also host a RFC meeting in the same
       Discord server, see the events for the time in your local timezone.</p>
     <EsNote @mascot="zoey">Let's go change Ember.js together!</EsNote>
   </div>

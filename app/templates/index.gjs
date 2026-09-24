@@ -43,7 +43,8 @@ function daysUntilFriday() {
       if you haven't already). Every week we also host an RFC meeting in the
       same Discord server, see the events for the time in your local timezone.</p>
 
-    <p>To submit an RFC, open a pull request on <a href="https://github.com/emberjs/rfcs/">the RFCs Repo</a>.</p>
+    <p>To submit an RFC, open a pull request on
+      <a href="https://github.com/emberjs/rfcs/">the RFCs Repo</a>.</p>
     <EsNote @mascot="zoey">Let's go change Ember.js together!</EsNote>
   </div>
 </template>

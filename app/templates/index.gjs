@@ -40,7 +40,7 @@ function daysUntilFriday() {
       ><code>#dev-rfc</code></a>
       Discord channel (join our discord via
       <a href="https://discord.gg/emberjs">this invite link</a>
-      if you haven't already). Every friday we also host a RFC meeting in the
+      if you haven't already). Every week we also host an RFC meeting in the
       same Discord server, see the events for the time in your local timezone.</p>
     <EsNote @mascot="zoey">Let's go change Ember.js together!</EsNote>
   </div>
